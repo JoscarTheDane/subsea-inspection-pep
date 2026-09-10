@@ -1,0 +1,12 @@
+# Secrets
+.api_key
+*.env
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated documents
+*.docx
+temp_attachments/
